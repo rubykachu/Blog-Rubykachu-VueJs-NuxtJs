@@ -16,19 +16,19 @@ export default {
    */
   head: {
     titleTemplate: '%s - ' + 'Rubykachu',
-    title: 'Code thần thánh',
+    title: 'Tăng Quốc Minh',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content: 'Đến thần thánh còn phải code. Không xem thì hơi phí'
+        content: 'Blog này chẳng có gì hay, mọi người xem xong và đi ra đừng ai comment, tui không repl đâu ;))'
       },
       {
         hid: 'keyword',
         name: 'keyword',
-        content: 'công nghệ, làm lại từ đầu, hướng dẫn, tutorial'
+        content: ''
       },
       {
         hid: 'copyright',
