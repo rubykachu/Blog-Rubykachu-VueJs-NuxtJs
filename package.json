@@ -22,7 +22,7 @@
     "js-cookie": "^2.2.1",
     "jwt-decode": "^2.2.0",
     "moment": "^2.24.0",
-    "nuxt": "^2.11.0",
+    "nuxt": "^2.15.8",
     "prismjs": "^1.17.1",
     "vue-disqus": "^3.0.5",
     "vuelidate": "^0.7.4"
